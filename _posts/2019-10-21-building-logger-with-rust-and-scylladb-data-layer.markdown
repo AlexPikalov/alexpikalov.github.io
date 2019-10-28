@@ -430,7 +430,7 @@ where
 
 ### Conclusion
 
-Thus in this chapter we've build a data layer of the logger. It's cappable for establishing Scylla session, creating a keyspace and a table for measurement entries, adding measurements and retrieving them. The full code of a data layer can be found https://github.com/AlexPikalov/ps-logger ([revision](https://github.com/AlexPikalov/ps-logger/tree/72b063c82484abfda41f3cf4eb95c999eb9e1e74)).
+Thus in this chapter we've build a data layer of the logger. It's cappable for establishing Scylla session, creating a keyspace and a table for measurement entries, adding measurements and retrieving them. The full code of a data layer can be found [https://github.com/AlexPikalov/ps-logger](https://github.com/AlexPikalov/ps-logger) ([revision](https://github.com/AlexPikalov/ps-logger/tree/72b063c82484abfda41f3cf4eb95c999eb9e1e74)).
 
 In next post we'll continue building our logger by adding a web interface to our service.
 
